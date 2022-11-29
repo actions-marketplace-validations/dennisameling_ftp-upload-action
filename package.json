@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "basic-ftp": "^4.6.6"
+    "basic-ftp": "^5.0.2"
   },
   "devDependencies": {
     "@types/jest": "^28.1.1",
